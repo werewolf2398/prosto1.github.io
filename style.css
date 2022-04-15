@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial';
+}
+
+#btn {
+  width: 150px;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  color: aliceblue;
+  background-color: rgb(218, 14, 28);
+  cursor: pointer;
+}
+
+#btn:hover {
+  background-color: orange;
+}
+
+.image {
+  display: none;
+}
+
+.show {
+  display: block;
+}
