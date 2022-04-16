@@ -23,3 +23,9 @@ body {
 .show {
   display: block;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 600px;
+}
